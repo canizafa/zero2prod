@@ -70,6 +70,6 @@ audit:
     - cargo audit
   allow_failure: true
   only:
-    - main
+    - master
     - develop
     - merge_requests
